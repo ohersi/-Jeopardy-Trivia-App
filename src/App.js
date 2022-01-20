@@ -5,7 +5,7 @@ import './App.css'
 class App extends Component {
 
   state = {
-    baseURL: 'http://jservice.io/api/random',
+    baseURL: 'https://jservice.io/api/random/',
     triviaInfo: {},
     showing: false,
     score: 0
