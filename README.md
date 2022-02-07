@@ -1,6 +1,6 @@
 ## Demo
 
-https://condescending-poincare-34532d.netlify.app/
+https://jeopardy-trivia.netlify.app/
 
 # Getting Started with Create React App
 
